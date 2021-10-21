@@ -1,4 +1,4 @@
-module xk6_bash_command
+module github.com/carmelsa/xk6_bash_command
 
 go 1.16
 
